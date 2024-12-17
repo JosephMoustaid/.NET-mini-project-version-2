@@ -1,0 +1,43 @@
+@model IEnumerable<LibraryManagerProject.Models.Member>
+
+@{
+    ViewData["Title"] = "Members List";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Add New Member</a>
+</p>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>#</th>
+        <th>Full Name</th>
+        <th>Email</th>
+        <th>Phone Number</th>
+        <th>Membership Start Date</th>
+        <th>Membership End Date</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var member in Model)
+    {
+        <tr>
+            <td>@member.Id</td>
+            <td>@member.FullName</td>
+            <td>@member.Email</td>
+            <td>@member.PhoneNumber</td>
+            <td>@member.MembershipStartDate.ToString("MM/dd/yyyy")</td>
+            <td>@(member.MembershipEndDate?.ToString("MM/dd/yyyy") ?? "N/A")</td>
+            <td>
+                <a href="@Url.Action("Details", new { id = member.Id })" class="btn btn-info">Details</a>
+                <a href="@Url.Action("Edit", new { id = member.Id })" class="btn btn-warning">Edit</a>
+                <a href="@Url.Action("Delete", new { id = member.Id })" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

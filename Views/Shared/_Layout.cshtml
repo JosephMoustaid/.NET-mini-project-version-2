@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - LibraryManagerProject</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+    <link rel="stylesheet" href="~/LibraryManagerProject.styles.css" asp-append-version="true"/>
+    <!-- Add Font Awesome or Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body class="d-flex">
+<!-- Sidebar/Aside Navigation -->
+<aside class="sidebar bg-custom p-3 bg-primary"  style="background-color: #0a58ca ; width: 200px; height: 100vh; position: fixed;">
+    <h3 class="text-center mb-4">LibraIQ</h3>
+    <ul class="nav flex-column">
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">
+                <i class="fas fa-home"></i> Home
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-controller="Books" asp-action="Index">
+                <i class="fas fa-book"></i> Books
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-controller="Books" asp-action="Create">
+                <i class="fas fa-plus"></i> Add Book
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-controller="Member" asp-action="Index">
+                <i class="fas fa-user"></i> Members
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-controller="Member" asp-action="Create">
+                <i class="fas fa-plus"></i> Add Member
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">
+                <i class="fas fa-shield-alt"></i> Privacy
+            </a>
+        </li>
+        
+        <li class="nav-item">
+            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="FAQ">
+                <i class="fas fa-question-circle"></i> FAQ
+            </a>
+        </li>
+    </ul>
+</aside>
+
+<!-- Main Content Area -->
+<div class="container  px-0" style="margin-left: 200px; ">
+    <main role="main" class="pb-3 px-0">
+        @RenderBody()
+    </main>
+</div>
+
+<footer class="border-top footer text-muted mt-5" style="margin-left: 250px; width: calc(100% - 250px)">
+    <div class="container">
+        &copy; 2024 - LibraryManagerProject - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+    </div>
+</footer>
+
+<!-- Scripts -->
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/site.js" asp-append-version="true"></script>
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

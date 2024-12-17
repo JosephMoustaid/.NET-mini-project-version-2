@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/obj/Debug/net8.0/scopedcss/projectbundle/LibraryManagerProject.bundle.scp.css",
+      "PackagePath": "staticwebassets/LibraryManagerProject.bundle.scp.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/0008740869-L_52a8082e-ec69-448e-b7e9-5ba84d862807.jpg",
+      "PackagePath": "staticwebassets/covers/0008740869-L_52a8082e-ec69-448e-b7e9-5ba84d862807.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/0008740869-L_c2c8e680-3d9a-4bda-b70f-87fc1924af1a.jpg",
+      "PackagePath": "staticwebassets/covers/0008740869-L_c2c8e680-3d9a-4bda-b70f-87fc1924af1a.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/0008740869-L_d1f1fa8f-fd1a-4de0-bac1-112f0c2368d4.jpg",
+      "PackagePath": "staticwebassets/covers/0008740869-L_d1f1fa8f-fd1a-4de0-bac1-112f0c2368d4.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/0008740869-L_eeb0a608-a44a-4ecd-87b4-983e1ec20c88.jpg",
+      "PackagePath": "staticwebassets/covers/0008740869-L_eeb0a608-a44a-4ecd-87b4-983e1ec20c88.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/1648451217.01._SCLZZZZZZZ_SX500__3be4ef67-608d-4b7a-a87e-26f511ccc658.jpg",
+      "PackagePath": "staticwebassets/covers/1648451217.01._SCLZZZZZZZ_SX500__3be4ef67-608d-4b7a-a87e-26f511ccc658.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/40121378_76ac6076-c61f-4024-8dc6-294bfa1e1104.jpg",
+      "PackagePath": "staticwebassets/covers/40121378_76ac6076-c61f-4024-8dc6-294bfa1e1104.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/40121378_c94d12ad-b0de-444b-abc7-f011c0340e3c.jpg",
+      "PackagePath": "staticwebassets/covers/40121378_c94d12ad-b0de-444b-abc7-f011c0340e3c.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/40121378_fff4878b-cb1c-4f6b-9a2c-33b9aa851ae1.jpg",
+      "PackagePath": "staticwebassets/covers/40121378_fff4878b-cb1c-4f6b-9a2c-33b9aa851ae1.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/71u7UpeuOuS._SL1360__e7add738-8a3f-41cf-a144-74231a1da165.jpg",
+      "PackagePath": "staticwebassets/covers/71u7UpeuOuS._SL1360__e7add738-8a3f-41cf-a144-74231a1da165.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/81BpeVPmH9L._SL1500__0c58dc78-ffa5-412d-8aa2-e2d6d1bb2a1a.jpg",
+      "PackagePath": "staticwebassets/covers/81BpeVPmH9L._SL1500__0c58dc78-ffa5-412d-8aa2-e2d6d1bb2a1a.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/81BpeVPmH9L._SL1500__1ef9a0e0-bc6b-49b5-a682-de18954c0145.jpg",
+      "PackagePath": "staticwebassets/covers/81BpeVPmH9L._SL1500__1ef9a0e0-bc6b-49b5-a682-de18954c0145.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/81BpeVPmH9L._SL1500__a7e8b42c-ce42-4c7c-bf92-40c89232ba6f.jpg",
+      "PackagePath": "staticwebassets/covers/81BpeVPmH9L._SL1500__a7e8b42c-ce42-4c7c-bf92-40c89232ba6f.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/81BpeVPmH9L._SL1500__fcff5eed-51fa-456f-ad3d-9c66714bc21e.jpg",
+      "PackagePath": "staticwebassets/covers/81BpeVPmH9L._SL1500__fcff5eed-51fa-456f-ad3d-9c66714bc21e.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/covers/onepiece.jpg",
+      "PackagePath": "staticwebassets/covers/onepiece.jpg"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/youssefmoustaid/Desktop/my-projects/LibraryManagerProject/LibraryManagerProject/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.LibraryManagerProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.LibraryManagerProject.props",
+      "PackagePath": "build\\LibraryManagerProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LibraryManagerProject.props",
+      "PackagePath": "buildMultiTargeting\\LibraryManagerProject.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LibraryManagerProject.props",
+      "PackagePath": "buildTransitive\\LibraryManagerProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

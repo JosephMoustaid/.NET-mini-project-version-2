@@ -1,0 +1,32 @@
+@model LibraryManagerProject.Models.Member
+
+@{
+    ViewData["Title"] = "Member Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table"  >
+    <tr>
+        <th>Full Name</th>
+        <td>@Model.FullName</td>
+    </tr>
+    <tr>
+        <th>Email</th>
+        <td>@Model.Email</td>
+    </tr>
+    <tr>
+        <th>Phone Number</th>
+        <td>@Model.PhoneNumber</td>
+    </tr>
+    <tr>
+        <th>Membership Start Date</th>
+        <td>@Model.MembershipStartDate.ToString("MM/dd/yyyy")</td>
+    </tr>
+    <tr>
+        <th>Membership End Date</th>
+        <td>@(Model.MembershipEndDate?.ToString("MM/dd/yyyy") ?? "N/A")</td>
+    </tr>
+</table>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

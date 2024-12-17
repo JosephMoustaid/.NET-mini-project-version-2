@@ -1,0 +1,14 @@
+@model LibraryManagerProject.Models.Member
+
+@{
+ViewData["Title"] = "Delete Member";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>Are you sure you want to delete the member <strong>@Model.FullName</strong>?</p>
+
+<form method="post">
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a href="@Url.Action("Index")" class="btn btn-secondary">Cancel</a>
+</form>

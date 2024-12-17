@@ -1,0 +1,72 @@
+@{
+    ViewData["Title"] = "Library Q&A";
+}
+
+<div class="container my-5">
+    <!-- Title Section -->
+    <div class="text-center mb-5">
+        <h1 class="display-4 text-primary font-weight-bold">@ViewData["Title"]</h1>
+        <p class="lead text-muted">Find answers to commonly asked questions or reach out for more information!</p>
+    </div>
+
+    <!-- FAQ Section -->
+    <div class="faq-section bg-light rounded p-4 shadow">
+        <h2 class="text-secondary mb-4">Frequently Asked Questions</h2>
+        <div class="accordion" id="faqAccordion">
+            <!-- Question 1 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="faqHeading1">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse1" aria-expanded="false" aria-controls="faqCollapse1">
+                        How can I borrow a book from the library?
+                    </button>
+                </h2>
+                <div id="faqCollapse1" class="accordion-collapse collapse" aria-labelledby="faqHeading1" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        To borrow a book, you need to be a registered member of the library. Once registered, you can check out books directly from the library's catalog.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Question 2 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="faqHeading2">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse2" aria-expanded="false" aria-controls="faqCollapse2">
+                        What is the library's return policy?
+                    </button>
+                </h2>
+                <div id="faqCollapse2" class="accordion-collapse collapse" aria-labelledby="faqHeading2" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Books should be returned within 14 days of borrowing. Late returns may incur a small fine. Please refer to our Return Policy for more details.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Question 3 -->
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="faqHeading3">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapse3" aria-expanded="false" aria-controls="faqCollapse3">
+                        Can I reserve a book online?
+                    </button>
+                </h2>
+                <div id="faqCollapse3" class="accordion-collapse collapse" aria-labelledby="faqHeading3" data-bs-parent="#faqAccordion">
+                    <div class="accordion-body">
+                        Yes, you can reserve books online through our website. Once the book is available, you will be notified to pick it up.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Contact Section -->
+    <div class="mt-5">
+        <h2 class="text-secondary">Have a Question?</h2>
+        <p class="text-muted">If your question isn't listed above, feel free to reach out to us or submit your query below:</p>
+        <form method="post" action="/FAQ/SubmitQuestion" class="bg-white p-4 rounded shadow">
+            <div class="form-group mb-3">
+                <label for="question" class="form-label text-secondary">Your Question:</label>
+                <textarea class="form-control" id="question" name="question" rows="4" placeholder="Type your question here..." required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary px-5 py-2">Submit Question</button>
+        </form>
+    </div>
+</div>

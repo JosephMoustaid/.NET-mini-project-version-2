@@ -1,0 +1,53 @@
+@model IEnumerable<LibraryManagerProject.Models.Book>
+
+<h2 class="mb-4 mt-3">Books List</h2>
+
+<div class="mb-4">
+    <input id="searchInput" type="text" class="form-control" placeholder="Search for books..." />
+</div>
+
+<div id="booksContainer" class="row">
+    @foreach (var book in Model)
+    {
+        <div class="col-6 col-md-3 mb-4 book-card">
+            <div class="card h-100">
+                <img class="card-img-top" src="@book.CoverImagePath" alt="Book Cover" />
+                <div class="card-body">
+                    <h5 class="card-title">@book.Title</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">by @book.Author</h6>
+                    <p class="card-text">
+                        <strong>Published:</strong> @book.PublishedDate.ToShortDateString()
+                    </p>
+                </div>
+                <div class="card-footer bg-transparent border-top-0">
+                    <a href="@Url.Action("Details", "Books", new { id = book.Id })" class="btn btn-custom btn-sm">Details</a>
+                    <a href="@Url.Action("Edit", "Books", new { id = book.Id })" class="btn btn-warning btn-sm">Edit</a>
+                    <a href="@Url.Action("Delete", "Books", new { id = book.Id })" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@section Scripts {
+    <script>
+        document.getElementById('searchInput').addEventListener('input', function () {
+            const query = this.value.toLowerCase();
+            const books = document.querySelectorAll('.book-card');
+
+            books.forEach(book => {
+                const title = book.querySelector('.card-title').textContent.toLowerCase();
+                const author = book.querySelector('.card-subtitle').textContent.toLowerCase();
+
+                if (title.includes(query) || author.includes(query)) {
+                    book.style.display = 'block'; // Show matching cards
+                } else {
+                    book.style.display = 'none'; // Hide non-matching cards
+                }
+            });
+        });
+    </script>
+}
+
+
+
